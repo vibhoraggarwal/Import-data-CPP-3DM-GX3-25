@@ -1,0 +1,1 @@
+Read data from the IMU [3DM-GX3-25](https://www.microstrain.com/inertial/3DM-GX3-25) from Microstrain using the code from [MSCL](http://lord-microstrain.github.io/MSCL/Documentation/Getting%20Started/index.html?cpp#introduction)
